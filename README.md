@@ -6,6 +6,7 @@ To get more ida about java library binding please follow this link https://devel
 * Step 2: Open it in android Studio.
 * Step 3: Build it in android Studio.
 * Step 4: Find **.aar** file in android Studio (To Know More about .aar Binding https://developer.xamarin.com/guides/android/advanced_topics/binding-a-java-library/binding-an-aar/)
+[logo]: https://github.com/shuvo009/AndroidCustomControlToXamarin-Android/blob/master/AndroidStudio.PNG "Logo Title Text 2"
 * Step 5: Open Visual Studio and create a xamarin android project.
 * Step 6: Add **Binding Library (Android)** project to your solution.
 * Step 7: Copy **.aar** file to the root of your project.
